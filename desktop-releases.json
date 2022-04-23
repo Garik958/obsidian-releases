@@ -1,0 +1,14 @@
+{
+    "minimumVersion": "0.11.0",
+    "latestVersion": "0.14.6",
+    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.6/obsidian-0.14.6.asar.gz",
+    "hash": "Z6EuGfflEAvmwsO1l0S192ZW584nUduFfXXzb+zkZm8=",
+    "signature": "jvMz3QZ01aGBmBIhjQHyYuccku5ua2wqSY567UdbFWtz//revAigjJwg5eUIIM+zPp3K+gpeVYe/oYaE/raNEr1I5GvQtEHVhahPc5EV12v4hSE2w5zdm1As+Bn53wpACBBrJt7cVA3bZyHxmbKUukdsLgkAPm2mhBJ9ACJCGyj3c85ztq0SIf9YUWpy8mHSyPssAkfO4mIERV0fSsgLcquOSWNEUPkXhFvLRWi8+57Dxrh6dXcrRVxTujZB62OppBcjlofvng5hs85PGdI+LqPfMsluKoC2+te05iMr25rGAkTLVgUBKhdKVHQ3gwlzqs0XqP/DQWzBR1B/RTA63g==",
+    "beta": {
+        "minimumVersion": "0.11.0",
+        "latestVersion": "0.14.6",
+        "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.14.6/obsidian-0.14.6.asar.gz",
+        "hash": "Z6EuGfflEAvmwsO1l0S192ZW584nUduFfXXzb+zkZm8=",
+        "signature": "jvMz3QZ01aGBmBIhjQHyYuccku5ua2wqSY567UdbFWtz//revAigjJwg5eUIIM+zPp3K+gpeVYe/oYaE/raNEr1I5GvQtEHVhahPc5EV12v4hSE2w5zdm1As+Bn53wpACBBrJt7cVA3bZyHxmbKUukdsLgkAPm2mhBJ9ACJCGyj3c85ztq0SIf9YUWpy8mHSyPssAkfO4mIERV0fSsgLcquOSWNEUPkXhFvLRWi8+57Dxrh6dXcrRVxTujZB62OppBcjlofvng5hs85PGdI+LqPfMsluKoC2+te05iMr25rGAkTLVgUBKhdKVHQ3gwlzqs0XqP/DQWzBR1B/RTA63g=="
+    }
+}
